@@ -1,0 +1,15 @@
+Test Accuracy : 0.7398
+Test Precision: 0.4922
+Test Recall   : 0.5013
+Test F1-Score : 0.4967
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    inme_yok       0.00      0.00      0.00         6
+      iskemi       0.71      0.74      0.73       156
+      kanama       0.76      0.77      0.76       180
+
+    accuracy                           0.74       342
+   macro avg       0.49      0.50      0.50       342
+weighted avg       0.73      0.74      0.73       342
