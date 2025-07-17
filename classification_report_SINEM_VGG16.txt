@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+    inme_yok       0.00      0.00      0.00         6
+      iskemi       0.58      0.71      0.64       156
+      kanama       0.70      0.59      0.64       180
+
+    accuracy                           0.63       342
+   macro avg       0.43      0.43      0.43       342
+weighted avg       0.63      0.63      0.63       342
